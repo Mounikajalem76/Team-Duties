@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "367736431644",
+    "firebase_url": "https://databaseconnecting-a9b46-default-rtdb.firebaseio.com",
+    "project_id": "databaseconnecting-a9b46",
+    "storage_bucket": "databaseconnecting-a9b46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367736431644:android:73af0db61ddbbb04d6ebd9",
+        "android_client_info": {
+          "package_name": "com.example.databaseconnecting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFjIjoO0ygka9eIWpCcXOQc9XUgDl-ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367736431644:android:0345667db34e68cfd6ebd9",
+        "android_client_info": {
+          "package_name": "com.example.teamduties"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFjIjoO0ygka9eIWpCcXOQc9XUgDl-ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
